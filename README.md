@@ -1,3 +1,14 @@
+# 留学生日常作业/课程设计/代码辅导/CS/DS/商科，仅为漂洋过海的你❥
+标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
+
+## 个人介绍:
+本人是一名资深码农，酷爱投资。
+
+为您提供 CS , DS , 商科 编程作业代写
+
+<img src="design2023866.jpg"  width="200" />
+
+
 # PS1B: Finding Waldo
 
 ## Overview
@@ -463,3 +474,21 @@ When you get to writing your `findwaldo` script you might find these textbook se
 - "4.8.2 Pipelines"
 - "4.8.4.1 Loops"
 - "4.8.4.2 Conditionals"
+
+- ## 作业代写价格:
+
+|类型|美元|人民币|
+|-----:|-----:|-----:|
+|Assignment|$60-$120|¥400-¥800|
+
+### 为了方便快速定价和确定是否代做，麻烦提供私聊的时候提供以下信息：
+如果是作业，提供本次作业要求文档；如果是考试，提供考试范围和考试时间
+一两句话概括一下作业任务或者考试任务，比如”可以帮忙实现一个决策树算法吗？”、”网络安全选择题考试，范围是内网横向移动知识点”
+### 作业定价有两种方式：
+    - 根据定价标准进行
+    - 通过微信我们一起协商
+## 联系方式
+
+微信（WeChat）：design2023866
+
+<img src="design2023866.jpg"  width="200" />
